@@ -1,0 +1,423 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TbInCollectionViewCell"
+provides-nominal:
+- "10TagPicture22TbInCollectionViewCellC"
+provides-member:
+- ["10TagPicture22TbInCollectionViewCellC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "imageView"
+- "prepareForReuse"
+- "spinner"
+depends-top-level:
+- "AssignmentPrecedence"
+- "TbInCollectionViewCell"
+- "UIActivityIndicatorView"
+- "UICollectionViewCell"
+- "UIImage"
+- "UIImageView"
+depends-member:
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "awakeFromNib"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "imageView"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "prepareForReuse"]
+- !private ["So15CALayerDelegateP", "spinner"]
+- !private ["So15CALayerDelegateP", "startAnimating"]
+- !private ["So15CALayerDelegateP", "stopAnimating"]
+- !private ["So15CALayerDelegateP", "updateWithImage"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "awakeFromNib"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "imageView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "prepareForReuse"]
+- !private ["s7CVarArgP", "spinner"]
+- !private ["s7CVarArgP", "startAnimating"]
+- !private ["s7CVarArgP", "stopAnimating"]
+- !private ["s7CVarArgP", "updateWithImage"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "awakeFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "imageView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "prepareForReuse"]
+- !private ["s28CustomDebugStringConvertibleP", "spinner"]
+- !private ["s28CustomDebugStringConvertibleP", "startAnimating"]
+- !private ["s28CustomDebugStringConvertibleP", "stopAnimating"]
+- !private ["s28CustomDebugStringConvertibleP", "updateWithImage"]
+- !private ["s17CustomReflectableP", "image"]
+- !private ["s17CustomReflectableP", "startAnimating"]
+- !private ["s17CustomReflectableP", "stopAnimating"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "awakeFromNib"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "imageView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "prepareForReuse"]
+- !private ["s23CustomStringConvertibleP", "spinner"]
+- !private ["s23CustomStringConvertibleP", "startAnimating"]
+- !private ["s23CustomStringConvertibleP", "stopAnimating"]
+- !private ["s23CustomStringConvertibleP", "updateWithImage"]
+- !private ["Se", "image"]
+- !private ["Se", "startAnimating"]
+- !private ["Se", "stopAnimating"]
+- !private ["SE", "image"]
+- !private ["SE", "startAnimating"]
+- !private ["SE", "stopAnimating"]
+- ["SQ", ""]
+- !private ["SQ", "awakeFromNib"]
+- !private ["SQ", "image"]
+- !private ["SQ", "imageView"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "prepareForReuse"]
+- !private ["SQ", "spinner"]
+- !private ["SQ", "startAnimating"]
+- !private ["SQ", "stopAnimating"]
+- !private ["SQ", "updateWithImage"]
+- !private ["s23ExpressibleByNilLiteralP", "image"]
+- !private ["s23ExpressibleByNilLiteralP", "startAnimating"]
+- !private ["s23ExpressibleByNilLiteralP", "stopAnimating"]
+- ["SH", ""]
+- !private ["SH", "awakeFromNib"]
+- !private ["SH", "image"]
+- !private ["SH", "imageView"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "prepareForReuse"]
+- !private ["SH", "spinner"]
+- !private ["SH", "startAnimating"]
+- !private ["SH", "stopAnimating"]
+- !private ["SH", "updateWithImage"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "awakeFromNib"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "imageView"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "prepareForReuse"]
+- !private ["So8NSCodingP", "spinner"]
+- !private ["So8NSCodingP", "startAnimating"]
+- !private ["So8NSCodingP", "stopAnimating"]
+- !private ["So8NSCodingP", "updateWithImage"]
+- ["So8NSObjectC", "UIActivityIndicatorView"]
+- ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "awakeFromNib"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "imageView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "prepareForReuse"]
+- ["So8NSObjectC", "spinner"]
+- !private ["So8NSObjectC", "startAnimating"]
+- !private ["So8NSObjectC", "stopAnimating"]
+- ["So8NSObjectC", "updateWithImage"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "awakeFromNib"]
+- !private ["So8NSObjectP", "image"]
+- !private ["So8NSObjectP", "imageView"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "prepareForReuse"]
+- !private ["So8NSObjectP", "spinner"]
+- !private ["So8NSObjectP", "startAnimating"]
+- !private ["So8NSObjectP", "stopAnimating"]
+- !private ["So8NSObjectP", "updateWithImage"]
+- !private ["Sq", "image"]
+- !private ["Sq", "startAnimating"]
+- !private ["Sq", "stopAnimating"]
+- ["10TagPicture22TbInCollectionViewCellC", "UIActivityIndicatorView"]
+- ["10TagPicture22TbInCollectionViewCellC", "UIImage"]
+- ["10TagPicture22TbInCollectionViewCellC", "UIImageView"]
+- ["10TagPicture22TbInCollectionViewCellC", "awakeFromNib"]
+- ["10TagPicture22TbInCollectionViewCellC", "imageView"]
+- ["10TagPicture22TbInCollectionViewCellC", "init"]
+- ["10TagPicture22TbInCollectionViewCellC", "prepareForReuse"]
+- ["10TagPicture22TbInCollectionViewCellC", "spinner"]
+- ["10TagPicture22TbInCollectionViewCellC", "updateWithImage"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "imageView"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "prepareForReuse"]
+- !private ["So29UIAccessibilityIdentificationP", "spinner"]
+- !private ["So29UIAccessibilityIdentificationP", "startAnimating"]
+- !private ["So29UIAccessibilityIdentificationP", "stopAnimating"]
+- !private ["So29UIAccessibilityIdentificationP", "updateWithImage"]
+- !private ["So23UIActivityIndicatorViewC", "startAnimating"]
+- !private ["So23UIActivityIndicatorViewC", "stopAnimating"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "awakeFromNib"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "imageView"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "prepareForReuse"]
+- !private ["So12UIAppearanceP", "spinner"]
+- !private ["So12UIAppearanceP", "startAnimating"]
+- !private ["So12UIAppearanceP", "stopAnimating"]
+- !private ["So12UIAppearanceP", "updateWithImage"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "awakeFromNib"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "imageView"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "prepareForReuse"]
+- !private ["So21UIAppearanceContainerP", "spinner"]
+- !private ["So21UIAppearanceContainerP", "startAnimating"]
+- !private ["So21UIAppearanceContainerP", "stopAnimating"]
+- !private ["So21UIAppearanceContainerP", "updateWithImage"]
+- ["So24UICollectionReusableViewC", "UIActivityIndicatorView"]
+- ["So24UICollectionReusableViewC", "UIImage"]
+- ["So24UICollectionReusableViewC", "UIImageView"]
+- ["So24UICollectionReusableViewC", "awakeFromNib"]
+- ["So24UICollectionReusableViewC", "imageView"]
+- ["So24UICollectionReusableViewC", "init"]
+- !private ["So24UICollectionReusableViewC", "init"]
+- ["So24UICollectionReusableViewC", "prepareForReuse"]
+- ["So24UICollectionReusableViewC", "spinner"]
+- ["So24UICollectionReusableViewC", "updateWithImage"]
+- ["So20UICollectionViewCellC", "UIActivityIndicatorView"]
+- ["So20UICollectionViewCellC", "UIImage"]
+- ["So20UICollectionViewCellC", "UIImageView"]
+- ["So20UICollectionViewCellC", ""]
+- ["So20UICollectionViewCellC", "awakeFromNib"]
+- ["So20UICollectionViewCellC", "imageView"]
+- ["So20UICollectionViewCellC", "init"]
+- !private ["So20UICollectionViewCellC", "init"]
+- ["So20UICollectionViewCellC", "prepareForReuse"]
+- ["So20UICollectionViewCellC", "spinner"]
+- ["So20UICollectionViewCellC", "updateWithImage"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "awakeFromNib"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "imageView"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "prepareForReuse"]
+- !private ["So17UICoordinateSpaceP", "spinner"]
+- !private ["So17UICoordinateSpaceP", "startAnimating"]
+- !private ["So17UICoordinateSpaceP", "stopAnimating"]
+- !private ["So17UICoordinateSpaceP", "updateWithImage"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "awakeFromNib"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "imageView"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "prepareForReuse"]
+- !private ["So13UIDynamicItemP", "spinner"]
+- !private ["So13UIDynamicItemP", "startAnimating"]
+- !private ["So13UIDynamicItemP", "stopAnimating"]
+- !private ["So13UIDynamicItemP", "updateWithImage"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "awakeFromNib"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "imageView"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "prepareForReuse"]
+- !private ["So18UIFocusEnvironmentP", "spinner"]
+- !private ["So18UIFocusEnvironmentP", "startAnimating"]
+- !private ["So18UIFocusEnvironmentP", "stopAnimating"]
+- !private ["So18UIFocusEnvironmentP", "updateWithImage"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "awakeFromNib"]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "imageView"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "prepareForReuse"]
+- !private ["So11UIFocusItemP", "spinner"]
+- !private ["So11UIFocusItemP", "startAnimating"]
+- !private ["So11UIFocusItemP", "stopAnimating"]
+- !private ["So11UIFocusItemP", "updateWithImage"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "awakeFromNib"]
+- !private ["So20UIFocusItemContainerP", "image"]
+- !private ["So20UIFocusItemContainerP", "imageView"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "prepareForReuse"]
+- !private ["So20UIFocusItemContainerP", "spinner"]
+- !private ["So20UIFocusItemContainerP", "startAnimating"]
+- !private ["So20UIFocusItemContainerP", "stopAnimating"]
+- !private ["So20UIFocusItemContainerP", "updateWithImage"]
+- !private ["So11UIImageViewC", "image"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "awakeFromNib"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageView"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "prepareForReuse"]
+- !private ["So30UIPasteConfigurationSupportingP", "spinner"]
+- !private ["So30UIPasteConfigurationSupportingP", "startAnimating"]
+- !private ["So30UIPasteConfigurationSupportingP", "stopAnimating"]
+- !private ["So30UIPasteConfigurationSupportingP", "updateWithImage"]
+- ["So11UIResponderC", "UIActivityIndicatorView"]
+- ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "awakeFromNib"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "imageView"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "prepareForReuse"]
+- ["So11UIResponderC", "spinner"]
+- !private ["So11UIResponderC", "startAnimating"]
+- !private ["So11UIResponderC", "stopAnimating"]
+- ["So11UIResponderC", "updateWithImage"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "imageView"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "prepareForReuse"]
+- !private ["So30UIResponderStandardEditActionsP", "spinner"]
+- !private ["So30UIResponderStandardEditActionsP", "startAnimating"]
+- !private ["So30UIResponderStandardEditActionsP", "stopAnimating"]
+- !private ["So30UIResponderStandardEditActionsP", "updateWithImage"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "awakeFromNib"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "imageView"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "prepareForReuse"]
+- !private ["So18UITraitEnvironmentP", "spinner"]
+- !private ["So18UITraitEnvironmentP", "startAnimating"]
+- !private ["So18UITraitEnvironmentP", "stopAnimating"]
+- !private ["So18UITraitEnvironmentP", "updateWithImage"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "awakeFromNib"]
+- !private ["So23UIUserActivityRestoringP", "image"]
+- !private ["So23UIUserActivityRestoringP", "imageView"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "prepareForReuse"]
+- !private ["So23UIUserActivityRestoringP", "spinner"]
+- !private ["So23UIUserActivityRestoringP", "startAnimating"]
+- !private ["So23UIUserActivityRestoringP", "stopAnimating"]
+- !private ["So23UIUserActivityRestoringP", "updateWithImage"]
+- ["So6UIViewC", "UIActivityIndicatorView"]
+- ["So6UIViewC", "UIImage"]
+- ["So6UIViewC", "UIImageView"]
+- ["So6UIViewC", "awakeFromNib"]
+- !private ["So6UIViewC", "image"]
+- ["So6UIViewC", "imageView"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- ["So6UIViewC", "prepareForReuse"]
+- ["So6UIViewC", "spinner"]
+- !private ["So6UIViewC", "startAnimating"]
+- !private ["So6UIViewC", "stopAnimating"]
+- ["So6UIViewC", "updateWithImage"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "imageView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "prepareForReuse"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "spinner"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "startAnimating"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "stopAnimating"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "updateWithImage"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "awakeFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prepareForReuse"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "spinner"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startAnimating"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stopAnimating"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "updateWithImage"]
+- !private ["s21_ObjectiveCBridgeableP", "image"]
+- !private ["s21_ObjectiveCBridgeableP", "startAnimating"]
+- !private ["s21_ObjectiveCBridgeableP", "stopAnimating"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "10TagPicture22TbInCollectionViewCellC"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- !private "So23UIActivityIndicatorViewC"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So11UIImageViewC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Modules/SwiftKeychainWrapper.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Headers/SwiftKeychainWrapper-umbrella.h"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Headers/SwiftKeychainWrapper.h"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Headers/SwiftKeychainWrapper-Swift.h"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8f6ce7fd5e6583f977dae033bd44e553"

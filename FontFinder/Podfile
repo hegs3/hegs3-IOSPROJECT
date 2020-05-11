@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'FontFinder' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+	#ios8.0
+	pod 'Alamofire', '~> 5.0.4'
+	#ios8.0
+	pod 'SwiftKeychainWrapper'
+	#ios9.0
+ 	pod 'RealmSwift'
+  # Pods for FontFinder
+
+end

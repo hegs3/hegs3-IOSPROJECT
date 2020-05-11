@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "keyboard-left-arrow-button.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "keyboard-left-arrow-button-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "keyboard-left-arrow-button-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

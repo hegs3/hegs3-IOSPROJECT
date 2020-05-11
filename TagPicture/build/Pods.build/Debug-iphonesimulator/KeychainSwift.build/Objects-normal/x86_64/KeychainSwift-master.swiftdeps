@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "92704d5945443c561c65942ae97036fd"
+build_time: [1572773870, 365723000]
+inputs:
+  "/Users/jr/Desktop/IOS__project/TagPicture/Pods/KeychainSwift/Sources/KeychainSwift.swift": [1572768856, 49203437]
+  "/Users/jr/Desktop/IOS__project/TagPicture/Pods/KeychainSwift/Sources/KeychainSwiftAccessOptions.swift": [1572768856, 49490002]
+  "/Users/jr/Desktop/IOS__project/TagPicture/Pods/KeychainSwift/Sources/TegKeychainConstants.swift": [1572768856, 49353264]

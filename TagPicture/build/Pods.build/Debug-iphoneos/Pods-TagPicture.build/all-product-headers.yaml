@@ -1,0 +1,65 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/Pods_TagPicture.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TagPicture-umbrella.h",
+          'external-contents': "/Users/jr/Desktop/RealProject/TagPicture/Pods/Target Support Files/Pods-TagPicture/Pods-TagPicture-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TagPicture-Swift.h",
+          'external-contents': "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/Pods_TagPicture.framework/Headers/Pods_TagPicture-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/Pods_TagPicture.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jr/Desktop/RealProject/TagPicture/build/Pods.build/Debug-iphoneos/Pods-TagPicture.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftKeychainWrapper-Swift.h",
+          'external-contents': "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Headers/SwiftKeychainWrapper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftKeychainWrapper-umbrella.h",
+          'external-contents': "/Users/jr/Desktop/RealProject/TagPicture/Pods/Target Support Files/SwiftKeychainWrapper/SwiftKeychainWrapper-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftKeychainWrapper.h",
+          'external-contents': "/Users/jr/Desktop/RealProject/TagPicture/Pods/SwiftKeychainWrapper/SwiftKeychainWrapper/SwiftKeychainWrapper.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jr/Desktop/RealProject/TagPicture/build/Pods.build/Debug-iphoneos/SwiftKeychainWrapper.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

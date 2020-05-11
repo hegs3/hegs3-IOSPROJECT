@@ -1,0 +1,608 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FolderViewDataSource"
+provides-nominal:
+- "6JrMemo20FolderViewDataSourceC"
+provides-member:
+- ["6JrMemo20FolderViewDataSourceC", ""]
+provides-dynamic-lookup:
+- "tableView"
+depends-top-level:
+- !private "=="
+- "Array"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- "CastingPrecedence"
+- !private "FloatLiteralType"
+- !private "FolderCell"
+- "FolderViewDataSource"
+- "IndexPath"
+- "Int"
+- !private "IntegerLiteralType"
+- !private "StringLiteralType"
+- !private "UIAlertAction"
+- !private "UIAlertController"
+- "UITableView"
+- "UITableViewCell"
+- "UITableViewDataSource"
+- !private "Void"
+- !private "folderCellId"
+- !private "folderItemStore"
+- !private "present"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["So15CALayerDelegateP", "EditingStyle"]
+- !private ["So15CALayerDelegateP", "RowAnimation"]
+- !private ["So15CALayerDelegateP", "deleteRows"]
+- !private ["So15CALayerDelegateP", "dequeueReusableCell"]
+- !private ["So15CALayerDelegateP", "isEditing"]
+- !private ["So15CALayerDelegateP", "reloadData"]
+- ["s7CVarArgP", "EditingStyle"]
+- !private ["s7CVarArgP", "RowAnimation"]
+- !private ["s7CVarArgP", "Style"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addAction"]
+- !private ["s7CVarArgP", "addTextField"]
+- !private ["s7CVarArgP", "deleteRows"]
+- !private ["s7CVarArgP", "dequeueReusableCell"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEditing"]
+- !private ["s7CVarArgP", "reloadData"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "EditingStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "RowAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "Style"]
+- !private ["s28CustomDebugStringConvertibleP", "addAction"]
+- !private ["s28CustomDebugStringConvertibleP", "addTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "deleteRows"]
+- !private ["s28CustomDebugStringConvertibleP", "dequeueReusableCell"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEditing"]
+- !private ["s28CustomDebugStringConvertibleP", "reloadData"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "EditingStyle"]
+- !private ["s23CustomStringConvertibleP", "RowAnimation"]
+- !private ["s23CustomStringConvertibleP", "Style"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addAction"]
+- !private ["s23CustomStringConvertibleP", "addTextField"]
+- !private ["s23CustomStringConvertibleP", "deleteRows"]
+- !private ["s23CustomStringConvertibleP", "dequeueReusableCell"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEditing"]
+- !private ["s23CustomStringConvertibleP", "reloadData"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["So27UITableViewCellEditingStyleV", "delete"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- ["SQ", "EditingStyle"]
+- !private ["SQ", "RowAnimation"]
+- !private ["SQ", "Style"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addAction"]
+- !private ["SQ", "addTextField"]
+- !private ["SQ", "alert"]
+- !private ["SQ", "automatic"]
+- !private ["SQ", "cancel"]
+- !private ["SQ", "default"]
+- !private ["SQ", "delete"]
+- !private ["SQ", "deleteRows"]
+- !private ["SQ", "dequeueReusableCell"]
+- !private ["SQ", "destructive"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEditing"]
+- !private ["SQ", "reloadData"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["6JrMemo20FolderViewDataSourceC", "CGFloat"]
+- !private ["6JrMemo20FolderViewDataSourceC", "FolderCell"]
+- ["6JrMemo20FolderViewDataSourceC", "IndexPath"]
+- ["6JrMemo20FolderViewDataSourceC", "Int"]
+- !private ["6JrMemo20FolderViewDataSourceC", "UIAlertAction"]
+- !private ["6JrMemo20FolderViewDataSourceC", "UIAlertController"]
+- ["6JrMemo20FolderViewDataSourceC", "UITableView"]
+- ["6JrMemo20FolderViewDataSourceC", "UITableViewCell"]
+- !private ["6JrMemo20FolderViewDataSourceC", "Void"]
+- ["6JrMemo20FolderViewDataSourceC", "autorelease"]
+- ["6JrMemo20FolderViewDataSourceC", "class"]
+- ["6JrMemo20FolderViewDataSourceC", "conforms"]
+- ["6JrMemo20FolderViewDataSourceC", "conformsToProtocol"]
+- ["6JrMemo20FolderViewDataSourceC", "debugDescription"]
+- ["6JrMemo20FolderViewDataSourceC", "deinit"]
+- ["6JrMemo20FolderViewDataSourceC", "description"]
+- !private ["6JrMemo20FolderViewDataSourceC", "folderCellId"]
+- !private ["6JrMemo20FolderViewDataSourceC", "folderItemStore"]
+- ["6JrMemo20FolderViewDataSourceC", "hash"]
+- ["6JrMemo20FolderViewDataSourceC", "init"]
+- ["6JrMemo20FolderViewDataSourceC", "isEqual"]
+- ["6JrMemo20FolderViewDataSourceC", "isKind"]
+- ["6JrMemo20FolderViewDataSourceC", "isKindOfClass"]
+- ["6JrMemo20FolderViewDataSourceC", "isMember"]
+- ["6JrMemo20FolderViewDataSourceC", "isMemberOfClass"]
+- ["6JrMemo20FolderViewDataSourceC", "isProxy"]
+- ["6JrMemo20FolderViewDataSourceC", "numberOfSections"]
+- ["6JrMemo20FolderViewDataSourceC", "numberOfSectionsInTableView"]
+- ["6JrMemo20FolderViewDataSourceC", "perform"]
+- ["6JrMemo20FolderViewDataSourceC", "performSelector"]
+- !private ["6JrMemo20FolderViewDataSourceC", "present"]
+- ["6JrMemo20FolderViewDataSourceC", "release"]
+- ["6JrMemo20FolderViewDataSourceC", "responds"]
+- ["6JrMemo20FolderViewDataSourceC", "respondsToSelector"]
+- ["6JrMemo20FolderViewDataSourceC", "retain"]
+- ["6JrMemo20FolderViewDataSourceC", "retainCount"]
+- ["6JrMemo20FolderViewDataSourceC", "sectionIndexTitles"]
+- ["6JrMemo20FolderViewDataSourceC", "sectionIndexTitlesForTableView"]
+- ["6JrMemo20FolderViewDataSourceC", "self"]
+- ["6JrMemo20FolderViewDataSourceC", "superclass"]
+- ["6JrMemo20FolderViewDataSourceC", "tableView"]
+- ["6JrMemo20FolderViewDataSourceC", "zone"]
+- ["SH", "EditingStyle"]
+- !private ["SH", "RowAnimation"]
+- !private ["SH", "Style"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addAction"]
+- !private ["SH", "addTextField"]
+- !private ["SH", "alert"]
+- !private ["SH", "automatic"]
+- !private ["SH", "cancel"]
+- !private ["SH", "default"]
+- !private ["SH", "delete"]
+- !private ["SH", "deleteRows"]
+- !private ["SH", "dequeueReusableCell"]
+- !private ["SH", "destructive"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "isEditing"]
+- !private ["SH", "reloadData"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "EditingStyle"]
+- !private ["So8NSCodingP", "RowAnimation"]
+- !private ["So8NSCodingP", "Style"]
+- !private ["So8NSCodingP", "addAction"]
+- !private ["So8NSCodingP", "addTextField"]
+- !private ["So8NSCodingP", "deleteRows"]
+- !private ["So8NSCodingP", "dequeueReusableCell"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isEditing"]
+- !private ["So8NSCodingP", "reloadData"]
+- !private ["So9NSCopyingP", "Style"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "Style"]
+- !private ["So26NSExtensionRequestHandlingP", "addAction"]
+- !private ["So26NSExtensionRequestHandlingP", "addTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- ["So8NSObjectC", "EditingStyle"]
+- !private ["So8NSObjectC", "RowAnimation"]
+- !private ["So8NSObjectC", "Style"]
+- !private ["So8NSObjectC", "addAction"]
+- !private ["So8NSObjectC", "addTextField"]
+- !private ["So8NSObjectC", "deleteRows"]
+- !private ["So8NSObjectC", "dequeueReusableCell"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isEditing"]
+- !private ["So8NSObjectC", "reloadData"]
+- ["So8NSObjectP", "EditingStyle"]
+- !private ["So8NSObjectP", "RowAnimation"]
+- !private ["So8NSObjectP", "Style"]
+- !private ["So8NSObjectP", "UIAlertAction"]
+- !private ["So8NSObjectP", "UIAlertController"]
+- !private ["So8NSObjectP", "UITableView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addAction"]
+- !private ["So8NSObjectP", "addTextField"]
+- ["So8NSObjectP", "autorelease"]
+- ["So8NSObjectP", "class"]
+- ["So8NSObjectP", "conforms"]
+- ["So8NSObjectP", "conformsToProtocol"]
+- ["So8NSObjectP", "debugDescription"]
+- !private ["So8NSObjectP", "deleteRows"]
+- !private ["So8NSObjectP", "dequeueReusableCell"]
+- ["So8NSObjectP", "description"]
+- !private ["So8NSObjectP", "folderCellId"]
+- !private ["So8NSObjectP", "folderItemStore"]
+- ["So8NSObjectP", "hash"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isEditing"]
+- ["So8NSObjectP", "isEqual"]
+- ["So8NSObjectP", "isKind"]
+- ["So8NSObjectP", "isKindOfClass"]
+- ["So8NSObjectP", "isMember"]
+- ["So8NSObjectP", "isMemberOfClass"]
+- ["So8NSObjectP", "isProxy"]
+- ["So8NSObjectP", "numberOfSections"]
+- ["So8NSObjectP", "numberOfSectionsInTableView"]
+- ["So8NSObjectP", "perform"]
+- ["So8NSObjectP", "performSelector"]
+- !private ["So8NSObjectP", "present"]
+- ["So8NSObjectP", "release"]
+- !private ["So8NSObjectP", "reloadData"]
+- ["So8NSObjectP", "responds"]
+- ["So8NSObjectP", "respondsToSelector"]
+- ["So8NSObjectP", "retain"]
+- ["So8NSObjectP", "retainCount"]
+- ["So8NSObjectP", "sectionIndexTitles"]
+- ["So8NSObjectP", "sectionIndexTitlesForTableView"]
+- ["So8NSObjectP", "self"]
+- ["So8NSObjectP", "superclass"]
+- ["So8NSObjectP", "tableView"]
+- ["So8NSObjectP", "zone"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "alert"]
+- !private ["SY", "automatic"]
+- !private ["SY", "cancel"]
+- !private ["SY", "default"]
+- !private ["SY", "delete"]
+- !private ["SY", "destructive"]
+- !private ["So23UITableViewRowAnimationV", "automatic"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["So22UIAlertControllerStyleV", "alert"]
+- !private ["So18UIAlertActionStyleV", "cancel"]
+- !private ["So18UIAlertActionStyleV", "default"]
+- !private ["So18UIAlertActionStyleV", "destructive"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["So29UIAccessibilityIdentificationP", "EditingStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "RowAnimation"]
+- !private ["So29UIAccessibilityIdentificationP", "deleteRows"]
+- !private ["So29UIAccessibilityIdentificationP", "dequeueReusableCell"]
+- !private ["So29UIAccessibilityIdentificationP", "isEditing"]
+- !private ["So29UIAccessibilityIdentificationP", "reloadData"]
+- !private ["So13UIAlertActionC", "Style"]
+- !private ["So13UIAlertActionC", "init"]
+- !private ["So17UIAlertControllerC", "Style"]
+- !private ["So17UIAlertControllerC", "addAction"]
+- !private ["So17UIAlertControllerC", "addTextField"]
+- !private ["So17UIAlertControllerC", "init"]
+- ["So12UIAppearanceP", "EditingStyle"]
+- !private ["So12UIAppearanceP", "RowAnimation"]
+- !private ["So12UIAppearanceP", "deleteRows"]
+- !private ["So12UIAppearanceP", "dequeueReusableCell"]
+- !private ["So12UIAppearanceP", "isEditing"]
+- !private ["So12UIAppearanceP", "reloadData"]
+- ["So21UIAppearanceContainerP", "EditingStyle"]
+- !private ["So21UIAppearanceContainerP", "RowAnimation"]
+- !private ["So21UIAppearanceContainerP", "Style"]
+- !private ["So21UIAppearanceContainerP", "addAction"]
+- !private ["So21UIAppearanceContainerP", "addTextField"]
+- !private ["So21UIAppearanceContainerP", "deleteRows"]
+- !private ["So21UIAppearanceContainerP", "dequeueReusableCell"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isEditing"]
+- !private ["So21UIAppearanceContainerP", "reloadData"]
+- !private ["So18UIContentContainerP", "Style"]
+- !private ["So18UIContentContainerP", "addAction"]
+- !private ["So18UIContentContainerP", "addTextField"]
+- !private ["So18UIContentContainerP", "init"]
+- ["So17UICoordinateSpaceP", "EditingStyle"]
+- !private ["So17UICoordinateSpaceP", "RowAnimation"]
+- !private ["So17UICoordinateSpaceP", "deleteRows"]
+- !private ["So17UICoordinateSpaceP", "dequeueReusableCell"]
+- !private ["So17UICoordinateSpaceP", "isEditing"]
+- !private ["So17UICoordinateSpaceP", "reloadData"]
+- !private ["So23UIDataSourceTranslatingP", "RowAnimation"]
+- !private ["So23UIDataSourceTranslatingP", "deleteRows"]
+- !private ["So23UIDataSourceTranslatingP", "dequeueReusableCell"]
+- !private ["So23UIDataSourceTranslatingP", "isEditing"]
+- !private ["So23UIDataSourceTranslatingP", "reloadData"]
+- ["So13UIDynamicItemP", "EditingStyle"]
+- !private ["So13UIDynamicItemP", "RowAnimation"]
+- !private ["So13UIDynamicItemP", "deleteRows"]
+- !private ["So13UIDynamicItemP", "dequeueReusableCell"]
+- !private ["So13UIDynamicItemP", "isEditing"]
+- !private ["So13UIDynamicItemP", "reloadData"]
+- ["So18UIFocusEnvironmentP", "EditingStyle"]
+- !private ["So18UIFocusEnvironmentP", "RowAnimation"]
+- !private ["So18UIFocusEnvironmentP", "Style"]
+- !private ["So18UIFocusEnvironmentP", "addAction"]
+- !private ["So18UIFocusEnvironmentP", "addTextField"]
+- !private ["So18UIFocusEnvironmentP", "deleteRows"]
+- !private ["So18UIFocusEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isEditing"]
+- !private ["So18UIFocusEnvironmentP", "reloadData"]
+- ["So11UIFocusItemP", "EditingStyle"]
+- !private ["So11UIFocusItemP", "RowAnimation"]
+- !private ["So11UIFocusItemP", "deleteRows"]
+- !private ["So11UIFocusItemP", "dequeueReusableCell"]
+- !private ["So11UIFocusItemP", "isEditing"]
+- !private ["So11UIFocusItemP", "reloadData"]
+- ["So20UIFocusItemContainerP", "EditingStyle"]
+- !private ["So20UIFocusItemContainerP", "RowAnimation"]
+- !private ["So20UIFocusItemContainerP", "deleteRows"]
+- !private ["So20UIFocusItemContainerP", "dequeueReusableCell"]
+- !private ["So20UIFocusItemContainerP", "isEditing"]
+- !private ["So20UIFocusItemContainerP", "reloadData"]
+- !private ["So30UIFocusItemScrollableContainerP", "RowAnimation"]
+- !private ["So30UIFocusItemScrollableContainerP", "deleteRows"]
+- !private ["So30UIFocusItemScrollableContainerP", "dequeueReusableCell"]
+- !private ["So30UIFocusItemScrollableContainerP", "isEditing"]
+- !private ["So30UIFocusItemScrollableContainerP", "reloadData"]
+- ["So27UIGestureRecognizerDelegateP", "EditingStyle"]
+- ["So30UIPasteConfigurationSupportingP", "EditingStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "RowAnimation"]
+- !private ["So30UIPasteConfigurationSupportingP", "Style"]
+- !private ["So30UIPasteConfigurationSupportingP", "addAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "addTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "deleteRows"]
+- !private ["So30UIPasteConfigurationSupportingP", "dequeueReusableCell"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isEditing"]
+- !private ["So30UIPasteConfigurationSupportingP", "reloadData"]
+- ["So11UIResponderC", "EditingStyle"]
+- !private ["So11UIResponderC", "RowAnimation"]
+- !private ["So11UIResponderC", "Style"]
+- !private ["So11UIResponderC", "addAction"]
+- !private ["So11UIResponderC", "addTextField"]
+- !private ["So11UIResponderC", "deleteRows"]
+- !private ["So11UIResponderC", "dequeueReusableCell"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isEditing"]
+- !private ["So11UIResponderC", "reloadData"]
+- ["So30UIResponderStandardEditActionsP", "EditingStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "RowAnimation"]
+- !private ["So30UIResponderStandardEditActionsP", "Style"]
+- !private ["So30UIResponderStandardEditActionsP", "addAction"]
+- !private ["So30UIResponderStandardEditActionsP", "addTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "deleteRows"]
+- !private ["So30UIResponderStandardEditActionsP", "dequeueReusableCell"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isEditing"]
+- !private ["So30UIResponderStandardEditActionsP", "reloadData"]
+- !private ["So12UIScrollViewC", "RowAnimation"]
+- !private ["So12UIScrollViewC", "deleteRows"]
+- !private ["So12UIScrollViewC", "dequeueReusableCell"]
+- !private ["So12UIScrollViewC", "isEditing"]
+- !private ["So12UIScrollViewC", "reloadData"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "RowAnimation"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "Style"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addTextField"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "deleteRows"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "dequeueReusableCell"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "isEditing"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "reloadData"]
+- !private ["So16UIStateRestoringP", "Style"]
+- !private ["So16UIStateRestoringP", "addAction"]
+- !private ["So16UIStateRestoringP", "addTextField"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So11UITableViewC", "RowAnimation"]
+- !private ["So11UITableViewC", "deleteRows"]
+- !private ["So11UITableViewC", "dequeueReusableCell"]
+- !private ["So11UITableViewC", "isEditing"]
+- !private ["So11UITableViewC", "reloadData"]
+- ["So15UITableViewCellC", "EditingStyle"]
+- !private ["So21UITableViewDataSourceP", "UIAlertAction"]
+- !private ["So21UITableViewDataSourceP", "UIAlertController"]
+- !private ["So21UITableViewDataSourceP", "UITableView"]
+- ["So21UITableViewDataSourceP", ""]
+- ["So21UITableViewDataSourceP", "autorelease"]
+- ["So21UITableViewDataSourceP", "class"]
+- ["So21UITableViewDataSourceP", "conforms"]
+- ["So21UITableViewDataSourceP", "conformsToProtocol"]
+- ["So21UITableViewDataSourceP", "debugDescription"]
+- ["So21UITableViewDataSourceP", "description"]
+- !private ["So21UITableViewDataSourceP", "folderCellId"]
+- !private ["So21UITableViewDataSourceP", "folderItemStore"]
+- ["So21UITableViewDataSourceP", "hash"]
+- ["So21UITableViewDataSourceP", "isEqual"]
+- ["So21UITableViewDataSourceP", "isKind"]
+- ["So21UITableViewDataSourceP", "isKindOfClass"]
+- ["So21UITableViewDataSourceP", "isMember"]
+- ["So21UITableViewDataSourceP", "isMemberOfClass"]
+- ["So21UITableViewDataSourceP", "isProxy"]
+- ["So21UITableViewDataSourceP", "numberOfSections"]
+- ["So21UITableViewDataSourceP", "numberOfSectionsInTableView"]
+- ["So21UITableViewDataSourceP", "perform"]
+- ["So21UITableViewDataSourceP", "performSelector"]
+- !private ["So21UITableViewDataSourceP", "present"]
+- ["So21UITableViewDataSourceP", "release"]
+- ["So21UITableViewDataSourceP", "responds"]
+- ["So21UITableViewDataSourceP", "respondsToSelector"]
+- ["So21UITableViewDataSourceP", "retain"]
+- ["So21UITableViewDataSourceP", "retainCount"]
+- ["So21UITableViewDataSourceP", "sectionIndexTitles"]
+- ["So21UITableViewDataSourceP", "sectionIndexTitlesForTableView"]
+- ["So21UITableViewDataSourceP", "self"]
+- ["So21UITableViewDataSourceP", "superclass"]
+- ["So21UITableViewDataSourceP", "tableView"]
+- ["So21UITableViewDataSourceP", "zone"]
+- ["So18UITraitEnvironmentP", "EditingStyle"]
+- !private ["So18UITraitEnvironmentP", "RowAnimation"]
+- !private ["So18UITraitEnvironmentP", "Style"]
+- !private ["So18UITraitEnvironmentP", "addAction"]
+- !private ["So18UITraitEnvironmentP", "addTextField"]
+- !private ["So18UITraitEnvironmentP", "deleteRows"]
+- !private ["So18UITraitEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isEditing"]
+- !private ["So18UITraitEnvironmentP", "reloadData"]
+- ["So23UIUserActivityRestoringP", "EditingStyle"]
+- !private ["So23UIUserActivityRestoringP", "RowAnimation"]
+- !private ["So23UIUserActivityRestoringP", "Style"]
+- !private ["So23UIUserActivityRestoringP", "addAction"]
+- !private ["So23UIUserActivityRestoringP", "addTextField"]
+- !private ["So23UIUserActivityRestoringP", "deleteRows"]
+- !private ["So23UIUserActivityRestoringP", "dequeueReusableCell"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isEditing"]
+- !private ["So23UIUserActivityRestoringP", "reloadData"]
+- ["So6UIViewC", "EditingStyle"]
+- !private ["So6UIViewC", "RowAnimation"]
+- !private ["So6UIViewC", "deleteRows"]
+- !private ["So6UIViewC", "dequeueReusableCell"]
+- !private ["So6UIViewC", "isEditing"]
+- !private ["So6UIViewC", "reloadData"]
+- !private ["So16UIViewControllerC", "Style"]
+- !private ["So16UIViewControllerC", "addAction"]
+- !private ["So16UIViewControllerC", "addTextField"]
+- !private ["So16UIViewControllerC", "init"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "EditingStyle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "RowAnimation"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "deleteRows"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "dequeueReusableCell"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isEditing"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "reloadData"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "EditingStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RowAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Style"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "deleteRows"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dequeueReusableCell"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEditing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reloadData"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "Sb"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "So27UITableViewCellEditingStyleV"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "6JrMemo20FolderViewDataSourceC"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sm"
+- !private "SY"
+- !private "So23UITableViewRowAnimationV"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "So22UIAlertControllerStyleV"
+- !private "So18UIAlertActionStyleV"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- !private "So13UIAlertActionC"
+- !private "So17UIAlertControllerC"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So16UIStateRestoringP"
+- !private "So11UITableViewC"
+- "So15UITableViewCellC"
+- "So21UITableViewDataSourceP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "So16UIViewControllerC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "97f7a888c0e0d86d3b3ee5dff2ef114d"

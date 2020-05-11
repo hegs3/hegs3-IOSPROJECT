@@ -1,0 +1,131 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FolderTalbeViewController"
+provides-nominal:
+- "6JrMemo25FolderTalbeViewControllerC"
+provides-member:
+- ["6JrMemo25FolderTalbeViewControllerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "FolderTalbeViewController"
+- "UITableViewDataSource"
+depends-member:
+- ["6JrMemo25FolderTalbeViewControllerC", "autorelease"]
+- ["6JrMemo25FolderTalbeViewControllerC", "class"]
+- ["6JrMemo25FolderTalbeViewControllerC", "conforms"]
+- ["6JrMemo25FolderTalbeViewControllerC", "conformsToProtocol"]
+- ["6JrMemo25FolderTalbeViewControllerC", "debugDescription"]
+- ["6JrMemo25FolderTalbeViewControllerC", "deinit"]
+- ["6JrMemo25FolderTalbeViewControllerC", "description"]
+- ["6JrMemo25FolderTalbeViewControllerC", "hash"]
+- ["6JrMemo25FolderTalbeViewControllerC", "init"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isEqual"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isKind"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isKindOfClass"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isMember"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isMemberOfClass"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isProxy"]
+- ["6JrMemo25FolderTalbeViewControllerC", "numberOfSections"]
+- ["6JrMemo25FolderTalbeViewControllerC", "numberOfSectionsInTableView"]
+- ["6JrMemo25FolderTalbeViewControllerC", "perform"]
+- ["6JrMemo25FolderTalbeViewControllerC", "performSelector"]
+- ["6JrMemo25FolderTalbeViewControllerC", "release"]
+- ["6JrMemo25FolderTalbeViewControllerC", "responds"]
+- ["6JrMemo25FolderTalbeViewControllerC", "respondsToSelector"]
+- ["6JrMemo25FolderTalbeViewControllerC", "retain"]
+- ["6JrMemo25FolderTalbeViewControllerC", "retainCount"]
+- ["6JrMemo25FolderTalbeViewControllerC", "sectionIndexTitles"]
+- ["6JrMemo25FolderTalbeViewControllerC", "sectionIndexTitlesForTableView"]
+- ["6JrMemo25FolderTalbeViewControllerC", "self"]
+- ["6JrMemo25FolderTalbeViewControllerC", "superclass"]
+- ["6JrMemo25FolderTalbeViewControllerC", "tableView"]
+- ["6JrMemo25FolderTalbeViewControllerC", "zone"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "autorelease"]
+- ["So8NSObjectP", "class"]
+- ["So8NSObjectP", "conforms"]
+- ["So8NSObjectP", "conformsToProtocol"]
+- ["So8NSObjectP", "debugDescription"]
+- ["So8NSObjectP", "description"]
+- ["So8NSObjectP", "hash"]
+- ["So8NSObjectP", "isEqual"]
+- ["So8NSObjectP", "isKind"]
+- ["So8NSObjectP", "isKindOfClass"]
+- ["So8NSObjectP", "isMember"]
+- ["So8NSObjectP", "isMemberOfClass"]
+- ["So8NSObjectP", "isProxy"]
+- ["So8NSObjectP", "numberOfSections"]
+- ["So8NSObjectP", "numberOfSectionsInTableView"]
+- ["So8NSObjectP", "perform"]
+- ["So8NSObjectP", "performSelector"]
+- ["So8NSObjectP", "release"]
+- ["So8NSObjectP", "responds"]
+- ["So8NSObjectP", "respondsToSelector"]
+- ["So8NSObjectP", "retain"]
+- ["So8NSObjectP", "retainCount"]
+- ["So8NSObjectP", "sectionIndexTitles"]
+- ["So8NSObjectP", "sectionIndexTitlesForTableView"]
+- ["So8NSObjectP", "self"]
+- ["So8NSObjectP", "superclass"]
+- ["So8NSObjectP", "tableView"]
+- ["So8NSObjectP", "zone"]
+- ["So21UITableViewDataSourceP", ""]
+- ["So21UITableViewDataSourceP", "autorelease"]
+- ["So21UITableViewDataSourceP", "class"]
+- ["So21UITableViewDataSourceP", "conforms"]
+- ["So21UITableViewDataSourceP", "conformsToProtocol"]
+- ["So21UITableViewDataSourceP", "debugDescription"]
+- ["So21UITableViewDataSourceP", "description"]
+- ["So21UITableViewDataSourceP", "hash"]
+- ["So21UITableViewDataSourceP", "isEqual"]
+- ["So21UITableViewDataSourceP", "isKind"]
+- ["So21UITableViewDataSourceP", "isKindOfClass"]
+- ["So21UITableViewDataSourceP", "isMember"]
+- ["So21UITableViewDataSourceP", "isMemberOfClass"]
+- ["So21UITableViewDataSourceP", "isProxy"]
+- ["So21UITableViewDataSourceP", "numberOfSections"]
+- ["So21UITableViewDataSourceP", "numberOfSectionsInTableView"]
+- ["So21UITableViewDataSourceP", "perform"]
+- ["So21UITableViewDataSourceP", "performSelector"]
+- ["So21UITableViewDataSourceP", "release"]
+- ["So21UITableViewDataSourceP", "responds"]
+- ["So21UITableViewDataSourceP", "respondsToSelector"]
+- ["So21UITableViewDataSourceP", "retain"]
+- ["So21UITableViewDataSourceP", "retainCount"]
+- ["So21UITableViewDataSourceP", "sectionIndexTitles"]
+- ["So21UITableViewDataSourceP", "sectionIndexTitlesForTableView"]
+- ["So21UITableViewDataSourceP", "self"]
+- ["So21UITableViewDataSourceP", "superclass"]
+- ["So21UITableViewDataSourceP", "tableView"]
+- ["So21UITableViewDataSourceP", "zone"]
+depends-nominal:
+- "6JrMemo25FolderTalbeViewControllerC"
+- "So8NSObjectP"
+- "So21UITableViewDataSourceP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a1482ab5df6bc551b93c30208c1b264f"

@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/jr/Desktop/IOS__project/TagPicture/build/Debug-iphonesimulator/KeychainSwift/KeychainSwift.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/jr/Desktop/IOS__project/TagPicture/build/Pods.build/Debug-iphonesimulator/KeychainSwift.build/unextended-module.modulemap",
+    }]
+  }]
+}

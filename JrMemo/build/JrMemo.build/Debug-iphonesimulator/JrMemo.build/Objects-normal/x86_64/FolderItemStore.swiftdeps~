@@ -1,0 +1,422 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FolderItemStore"
+provides-nominal:
+- "6JrMemo15FolderItemStoreC"
+provides-member:
+- ["6JrMemo15FolderItemStoreC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+="
+- !private "=="
+- "Bool"
+- "CastingPrecedence"
+- "FileManager"
+- "FolderItem"
+- "FolderItemStore"
+- "Int"
+- !private "NSKeyedArchiver"
+- !private "NSKeyedUnarchiver"
+- "StringLiteralType"
+- !private "SubjectItemStore"
+- "URL"
+depends-member:
+- !private ["Sa", "append"]
+- ["Sa", "first"]
+- ["Sa", "init"]
+- !private ["Sa", "insert"]
+- !private ["Sa", "lastIndex"]
+- !private ["Sa", "remove"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "append"]
+- ["s13ArrayProtocolP", "first"]
+- ["s13ArrayProtocolP", "init"]
+- !private ["s13ArrayProtocolP", "insert"]
+- !private ["s13ArrayProtocolP", "lastIndex"]
+- !private ["s13ArrayProtocolP", "remove"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["SK", "append"]
+- ["SK", "first"]
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["SK", "insert"]
+- !private ["SK", "lastIndex"]
+- !private ["SK", "remove"]
+- !private ["SK", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "SearchPathDirectory"]
+- !private ["s7CVarArgP", "SearchPathDomainMask"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "archiveRootObject"]
+- ["s7CVarArgP", "default"]
+- ["s7CVarArgP", "first"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "insert"]
+- !private ["s7CVarArgP", "lastIndex"]
+- !private ["s7CVarArgP", "remove"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "unarchiveObject"]
+- ["s7CVarArgP", "urls"]
+- !private ["Sl", "append"]
+- ["Sl", "first"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- !private ["Sl", "insert"]
+- !private ["Sl", "lastIndex"]
+- !private ["Sl", "remove"]
+- !private ["Sl", "subscript"]
+- ["SL", "init"]
+- ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "SearchPathDirectory"]
+- !private ["s28CustomDebugStringConvertibleP", "SearchPathDomainMask"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "archiveRootObject"]
+- ["s28CustomDebugStringConvertibleP", "default"]
+- ["s28CustomDebugStringConvertibleP", "first"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "insert"]
+- !private ["s28CustomDebugStringConvertibleP", "lastIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "unarchiveObject"]
+- ["s28CustomDebugStringConvertibleP", "urls"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "path"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- ["s17CustomReflectableP", "first"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "insert"]
+- !private ["s17CustomReflectableP", "lastIndex"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "SearchPathDirectory"]
+- !private ["s23CustomStringConvertibleP", "SearchPathDomainMask"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "archiveRootObject"]
+- ["s23CustomStringConvertibleP", "default"]
+- ["s23CustomStringConvertibleP", "first"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "insert"]
+- !private ["s23CustomStringConvertibleP", "lastIndex"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "unarchiveObject"]
+- ["s23CustomStringConvertibleP", "urls"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "append"]
+- ["Se", "appendingPathComponent"]
+- ["Se", "first"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "insert"]
+- !private ["Se", "lastIndex"]
+- !private ["Se", "path"]
+- !private ["Se", "remove"]
+- !private ["Se", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "append"]
+- ["SE", "appendingPathComponent"]
+- ["SE", "first"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "insert"]
+- !private ["SE", "lastIndex"]
+- !private ["SE", "path"]
+- !private ["SE", "remove"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "SearchPathDirectory"]
+- !private ["SQ", "SearchPathDomainMask"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "append"]
+- ["SQ", "appendingPathComponent"]
+- !private ["SQ", "archiveRootObject"]
+- ["SQ", "default"]
+- ["SQ", "documentDirectory"]
+- ["SQ", "first"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- !private ["SQ", "insert"]
+- !private ["SQ", "lastIndex"]
+- !private ["SQ", "path"]
+- !private ["SQ", "remove"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "unarchiveObject"]
+- ["SQ", "urls"]
+- ["SQ", "userDomainMask"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- ["s25ExpressibleByArrayLiteralP", "first"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "insert"]
+- !private ["s25ExpressibleByArrayLiteralP", "lastIndex"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- ["s25ExpressibleByArrayLiteralP", "userDomainMask"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So13NSFileManagerC", "SearchPathDirectory"]
+- !private ["So13NSFileManagerC", "SearchPathDomainMask"]
+- ["So13NSFileManagerC", "default"]
+- ["So13NSFileManagerC", "urls"]
+- !private ["6JrMemo10FolderItemC", "deinit"]
+- !private ["6JrMemo10FolderItemC", "init"]
+- ["6JrMemo15FolderItemStoreC", "Bool"]
+- ["6JrMemo15FolderItemStoreC", "FileManager"]
+- ["6JrMemo15FolderItemStoreC", "FolderItem"]
+- ["6JrMemo15FolderItemStoreC", "Int"]
+- !private ["6JrMemo15FolderItemStoreC", "NSKeyedArchiver"]
+- !private ["6JrMemo15FolderItemStoreC", "NSKeyedUnarchiver"]
+- !private ["6JrMemo15FolderItemStoreC", "SubjectItemStore"]
+- ["6JrMemo15FolderItemStoreC", "URL"]
+- ["6JrMemo15FolderItemStoreC", "createFolderItem"]
+- ["6JrMemo15FolderItemStoreC", "folderAllItems"]
+- ["6JrMemo15FolderItemStoreC", "folderItemArchiveURL"]
+- ["6JrMemo15FolderItemStoreC", "init"]
+- ["6JrMemo15FolderItemStoreC", "moveFolderItemAtIndex"]
+- ["6JrMemo15FolderItemStoreC", "removeFolderItem"]
+- ["6JrMemo15FolderItemStoreC", "saveChanges"]
+- !private ["SH", "SearchPathDirectory"]
+- !private ["SH", "SearchPathDomainMask"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "append"]
+- ["SH", "appendingPathComponent"]
+- !private ["SH", "archiveRootObject"]
+- ["SH", "default"]
+- ["SH", "documentDirectory"]
+- ["SH", "first"]
+- ["SH", "init"]
+- ["SH", "init"]
+- !private ["SH", "insert"]
+- !private ["SH", "lastIndex"]
+- !private ["SH", "path"]
+- !private ["SH", "remove"]
+- !private ["SH", "subscript"]
+- !private ["SH", "unarchiveObject"]
+- ["SH", "urls"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["SM", "append"]
+- ["SM", "first"]
+- ["SM", "init"]
+- !private ["SM", "insert"]
+- !private ["SM", "lastIndex"]
+- !private ["SM", "remove"]
+- !private ["SM", "subscript"]
+- !private ["So7NSCoderC", "archiveRootObject"]
+- !private ["So7NSCoderC", "unarchiveObject"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So15NSKeyedArchiverC", "archiveRootObject"]
+- !private ["So17NSKeyedUnarchiverC", "unarchiveObject"]
+- !private ["So8NSObjectC", "SearchPathDirectory"]
+- !private ["So8NSObjectC", "SearchPathDomainMask"]
+- !private ["So8NSObjectC", "archiveRootObject"]
+- ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "unarchiveObject"]
+- ["So8NSObjectC", "urls"]
+- !private ["So8NSObjectP", "SearchPathDirectory"]
+- !private ["So8NSObjectP", "SearchPathDomainMask"]
+- !private ["So8NSObjectP", "archiveRootObject"]
+- ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "unarchiveObject"]
+- ["So8NSObjectP", "urls"]
+- ["s9OptionSetP", "userDomainMask"]
+- !private ["Sk", "append"]
+- ["Sk", "first"]
+- ["Sk", "init"]
+- !private ["Sk", "insert"]
+- !private ["Sk", "lastIndex"]
+- !private ["Sk", "remove"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "append"]
+- ["Sm", "first"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- !private ["Sm", "insert"]
+- !private ["Sm", "lastIndex"]
+- !private ["Sm", "remove"]
+- !private ["Sm", "subscript"]
+- ["SY", "documentDirectory"]
+- ["SY", "userDomainMask"]
+- ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- !private ["10Foundation20ReferenceConvertibleP", "path"]
+- ["So21NSSearchPathDirectoryV", "documentDirectory"]
+- ["So22NSSearchPathDomainMaskV", "userDomainMask"]
+- !private ["ST", "append"]
+- ["ST", "first"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["ST", "insert"]
+- !private ["ST", "lastIndex"]
+- !private ["ST", "remove"]
+- !private ["ST", "subscript"]
+- ["s10SetAlgebraP", "userDomainMask"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- !private ["6JrMemo16SubjectItemStoreC", "init"]
+- !private ["6JrMemo16SubjectItemStoreC", "init"]
+- !private ["6JrMemo16SubjectItemStoreC", "subjectAllItems"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["10Foundation3URLV", "appendingPathComponent"]
+- !private ["10Foundation3URLV", "path"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- ["s24_DestructorSafeContainerP", "first"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "insert"]
+- !private ["s24_DestructorSafeContainerP", "lastIndex"]
+- !private ["s24_DestructorSafeContainerP", "remove"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "path"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "insert"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "lastIndex"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SearchPathDirectory"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SearchPathDomainMask"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "archiveRootObject"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "unarchiveObject"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "urls"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- ["s21_ObjectiveCBridgeableP", "first"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "insert"]
+- !private ["s21_ObjectiveCBridgeableP", "lastIndex"]
+- !private ["s21_ObjectiveCBridgeableP", "path"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "Sa"
+- "s13ArrayProtocolP"
+- "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "So13NSFileManagerC"
+- !private "6JrMemo10FolderItemC"
+- "6JrMemo15FolderItemStoreC"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "SM"
+- !private "So7NSCoderC"
+- !private "So8NSCodingP"
+- !private "So15NSKeyedArchiverC"
+- !private "So17NSKeyedUnarchiverC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "s9OptionSetP"
+- "Sk"
+- "Sm"
+- "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "So21NSSearchPathDirectoryV"
+- "So22NSSearchPathDomainMaskV"
+- "ST"
+- "s10SetAlgebraP"
+- "SS"
+- "Sy"
+- !private "6JrMemo16SubjectItemStoreC"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "10Foundation3URLV"
+- "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s34_ExpressibleByFileReferenceLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "40aa46f0a22b252ba5a47642d0e5a4bd"

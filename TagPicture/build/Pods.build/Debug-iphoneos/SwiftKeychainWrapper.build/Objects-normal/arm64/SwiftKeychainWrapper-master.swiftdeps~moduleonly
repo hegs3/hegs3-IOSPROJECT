@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "21dac8f1683367566b16086abb5d7ef8"
+build_time: [1572161126, 642474000]
+inputs:
+  "/Users/jr/Desktop/RealProject/TagPicture/Pods/SwiftKeychainWrapper/SwiftKeychainWrapper/KeychainItemAccessibility.swift": [1558430390, 0]
+  "/Users/jr/Desktop/RealProject/TagPicture/Pods/SwiftKeychainWrapper/SwiftKeychainWrapper/KeychainWrapper.swift": [1558430390, 0]

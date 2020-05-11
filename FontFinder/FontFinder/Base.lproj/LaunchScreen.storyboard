@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16086"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" semanticContentAttribute="spatial" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash_logo" translatesAutoresizingMaskIntoConstraints="NO" id="FR2-Ai-Xbe">
+                                <rect key="frame" x="41.5" y="318" width="331" height="179.5"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mPH-ak-w6L">
+                                <rect key="frame" x="0.0" y="505.5" width="414" height="20"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="세상의 모든폰트 무료로 즐기세요">
+                                        <attributes>
+                                            <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <font key="NSFont" size="17" name="AppleSDGothicNeo-UltraLight"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.95686274509803915" green="0.95686274509803915" blue="0.95686274509803915" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="FR2-Ai-Xbe" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" multiplier="0.9" id="CCe-8q-cw4"/>
+                            <constraint firstItem="mPH-ak-w6L" firstAttribute="top" secondItem="FR2-Ai-Xbe" secondAttribute="bottom" constant="8" id="LH4-Ud-9WT"/>
+                            <constraint firstItem="FR2-Ai-Xbe" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="0.2" id="OkA-zz-LLr"/>
+                            <constraint firstItem="mPH-ak-w6L" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" id="RHC-D9-C73"/>
+                            <constraint firstItem="FR2-Ai-Xbe" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="SAj-HB-oLf"/>
+                            <constraint firstItem="FR2-Ai-Xbe" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.8" id="Sko-9g-RCD"/>
+                            <constraint firstItem="mPH-ak-w6L" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="TmO-qf-EZr"/>
+                            <constraint firstItem="FR2-Ai-Xbe" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="vi7-ph-hFK"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="splash_logo" width="263.5" height="138"/>
+    </resources>
+</document>

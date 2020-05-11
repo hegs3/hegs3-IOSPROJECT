@@ -1,0 +1,235 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ImageResult"
+- "PhotoError"
+- "PhotoStore"
+provides-nominal:
+- "10TagPicture11ImageResultO"
+- "10TagPicture10PhotoErrorO"
+- "10TagPicture10PhotoStoreC"
+provides-member:
+- ["10TagPicture11ImageResultO", ""]
+- ["10TagPicture10PhotoErrorO", ""]
+- ["10TagPicture10PhotoStoreC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- !private "AssignmentPrecedence"
+- "Data"
+- "Error"
+- !private "FlickrAPI"
+- !private "FloatLiteralType"
+- "ImageResult"
+- !private "IntegerLiteralType"
+- "Photo"
+- "PhotoError"
+- "PhotoStore"
+- "PhotosResult"
+- "UIImage"
+- !private "URLRequest"
+- "URLSession"
+- "URLSessionConfiguration"
+- "Void"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "dataTask"]
+- ["s7CVarArgP", "default"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "resume"]
+- !private ["s28CustomDebugStringConvertibleP", "dataTask"]
+- ["s28CustomDebugStringConvertibleP", "default"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "resume"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "dataTask"]
+- ["s23CustomStringConvertibleP", "default"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "resume"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SQ", "ImageCreateionError"]
+- ["SQ", ""]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- ["SQ", "_getEmbeddedNSError"]
+- ["SQ", "_userInfo"]
+- !private ["SQ", "dataTask"]
+- ["SQ", "default"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "image"]
+- ["SQ", "init"]
+- !private ["SQ", "remoteURL"]
+- !private ["SQ", "resume"]
+- !private ["s5ErrorP", "ImageCreateionError"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10TagPicture9FlickrAPIV", "photosFromJSONData"]
+- !private ["10TagPicture9FlickrAPIV", "recentPhotosURL"]
+- !private ["SH", "ImageCreateionError"]
+- ["SH", ""]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- ["SH", "_getEmbeddedNSError"]
+- ["SH", "_userInfo"]
+- !private ["SH", "dataTask"]
+- ["SH", "default"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- !private ["SH", "resume"]
+- !private ["s6HasherV", "combine"]
+- ["10TagPicture11ImageResultO", "Error"]
+- ["10TagPicture11ImageResultO", "Failure"]
+- ["10TagPicture11ImageResultO", "Success"]
+- ["10TagPicture11ImageResultO", "UIImage"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "default"]
+- !private ["So9NSCopyingP", "resume"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So8NSObjectC", "dataTask"]
+- ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "resume"]
+- !private ["So8NSObjectP", "dataTask"]
+- ["So8NSObjectP", "default"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "resume"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["10TagPicture5PhotoC", "image"]
+- !private ["10TagPicture5PhotoC", "remoteURL"]
+- ["10TagPicture10PhotoErrorO", "ImageCreateionError"]
+- ["10TagPicture10PhotoErrorO", "__derived_enum_equals"]
+- ["10TagPicture10PhotoErrorO", "_code"]
+- ["10TagPicture10PhotoErrorO", "_domain"]
+- ["10TagPicture10PhotoErrorO", "_getEmbeddedNSError"]
+- ["10TagPicture10PhotoErrorO", "_userInfo"]
+- ["10TagPicture10PhotoErrorO", "deinit"]
+- ["10TagPicture10PhotoErrorO", "hash"]
+- ["10TagPicture10PhotoErrorO", "hashValue"]
+- ["10TagPicture10PhotoStoreC", "Data"]
+- ["10TagPicture10PhotoStoreC", "Error"]
+- !private ["10TagPicture10PhotoStoreC", "FlickrAPI"]
+- ["10TagPicture10PhotoStoreC", "ImageResult"]
+- ["10TagPicture10PhotoStoreC", "Photo"]
+- !private ["10TagPicture10PhotoStoreC", "PhotoError"]
+- ["10TagPicture10PhotoStoreC", "PhotosResult"]
+- !private ["10TagPicture10PhotoStoreC", "UIImage"]
+- !private ["10TagPicture10PhotoStoreC", "URLRequest"]
+- ["10TagPicture10PhotoStoreC", "URLSession"]
+- ["10TagPicture10PhotoStoreC", "URLSessionConfiguration"]
+- ["10TagPicture10PhotoStoreC", "Void"]
+- ["10TagPicture10PhotoStoreC", "fetchImageForPhoto"]
+- ["10TagPicture10PhotoStoreC", "fetchRecentPhotos"]
+- ["10TagPicture10PhotoStoreC", "init"]
+- ["10TagPicture10PhotoStoreC", "processImageRequest"]
+- ["10TagPicture10PhotoStoreC", "processRecentPhotosRequest"]
+- ["10TagPicture10PhotoStoreC", "session"]
+- !private ["10TagPicture12PhotosResultO", "Failure"]
+- !private ["So19NSProgressReportingP", "resume"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So7UIImageC", "init"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["10Foundation10URLRequestV", "init"]
+- !private ["So12NSURLSessionC", "dataTask"]
+- ["So12NSURLSessionC", "init"]
+- ["So25NSURLSessionConfigurationC", "default"]
+- !private ["So20NSURLSessionDataTaskC", "resume"]
+- !private ["So16NSURLSessionTaskC", "resume"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataTask"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resume"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "Sb"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "10TagPicture9FlickrAPIV"
+- "SH"
+- !private "s6HasherV"
+- "10TagPicture11ImageResultO"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "10TagPicture5PhotoC"
+- "10TagPicture10PhotoErrorO"
+- "10TagPicture10PhotoStoreC"
+- !private "10TagPicture12PhotosResultO"
+- !private "So19NSProgressReportingP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "10Foundation10URLRequestV"
+- "So12NSURLSessionC"
+- "So25NSURLSessionConfigurationC"
+- !private "So20NSURLSessionDataTaskC"
+- !private "So16NSURLSessionTaskC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Modules/SwiftKeychainWrapper.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Headers/SwiftKeychainWrapper-umbrella.h"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Headers/SwiftKeychainWrapper.h"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Headers/SwiftKeychainWrapper-Swift.h"
+- "/Users/jr/Desktop/RealProject/TagPicture/build/Debug-iphoneos/SwiftKeychainWrapper/SwiftKeychainWrapper.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "258ad2c507e825032e33f5bdcb8935cb"

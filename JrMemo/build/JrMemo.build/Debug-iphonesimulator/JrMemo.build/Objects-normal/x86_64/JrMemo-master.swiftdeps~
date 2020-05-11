@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "a8b83fd02fb28dbd2259ecb5924b65ba"
+build_time: [1569664276, 93518000]
+inputs:
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/Controller/SubjectTableViewController.swift": [1548311299, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/Controller/ContentDetaileViewController.swift": [1548311299, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/Model/Store/FolderItemStore.swift": [1569324014, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/Controller/SubjectTableViewDatasource.swift": [1568974959, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/Model/Store/SubjectItemStore.swift": [1567931574, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/View/SubjectCell.swift": [1547975883, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/View/ImagePopupView.swift": [1548141760, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/Model/FolderItem.swift": [1547798986, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/Controller/FolderViewController.swift": [1568185672, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/Model/SubjectItem.swift": [1548136200, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/AppDelegate.swift": [1548136787, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/View/FolderCell.swift": [1546417110, 0]
+  "/Users/jr/Desktop/RealProject/JrMemo/JrMemo/Model/Store/ImageStore.swift": [1548311299, 0]

@@ -1,0 +1,6 @@
+framework module Pods_FontFinder {
+  umbrella header "Pods-FontFinder-umbrella.h"
+
+  export *
+  module * { export * }
+}

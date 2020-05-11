@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "50d8b8afe2e01ec6b337d50c78ae8917"
+build_time: [1573105344, 609784000]
+inputs:
+  "/Users/jr/Desktop/IOS__project/TagPicture/Pods/SwiftKeychainWrapper/SwiftKeychainWrapper/KeychainItemAccessibility.swift": [1572767870, 633093840]
+  "/Users/jr/Desktop/IOS__project/TagPicture/Pods/SwiftKeychainWrapper/SwiftKeychainWrapper/KeychainWrapper.swift": [1572767870, 632558074]

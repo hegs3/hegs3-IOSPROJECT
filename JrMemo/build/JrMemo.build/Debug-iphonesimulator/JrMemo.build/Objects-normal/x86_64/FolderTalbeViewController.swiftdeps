@@ -1,0 +1,213 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FolderTalbeViewController"
+provides-nominal:
+- "6JrMemo25FolderTalbeViewControllerC"
+provides-member:
+- ["6JrMemo25FolderTalbeViewControllerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "FolderTalbeViewController"
+- "UITableViewDelegate"
+depends-member:
+- ["6JrMemo25FolderTalbeViewControllerC", "autorelease"]
+- ["6JrMemo25FolderTalbeViewControllerC", "class"]
+- ["6JrMemo25FolderTalbeViewControllerC", "conforms"]
+- ["6JrMemo25FolderTalbeViewControllerC", "conformsToProtocol"]
+- ["6JrMemo25FolderTalbeViewControllerC", "debugDescription"]
+- ["6JrMemo25FolderTalbeViewControllerC", "deinit"]
+- ["6JrMemo25FolderTalbeViewControllerC", "description"]
+- ["6JrMemo25FolderTalbeViewControllerC", "hash"]
+- ["6JrMemo25FolderTalbeViewControllerC", "indexPathForPreferredFocusedView"]
+- ["6JrMemo25FolderTalbeViewControllerC", "indexPathForPreferredFocusedViewInTableView"]
+- ["6JrMemo25FolderTalbeViewControllerC", "init"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isEqual"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isKind"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isKindOfClass"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isMember"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isMemberOfClass"]
+- ["6JrMemo25FolderTalbeViewControllerC", "isProxy"]
+- ["6JrMemo25FolderTalbeViewControllerC", "perform"]
+- ["6JrMemo25FolderTalbeViewControllerC", "performSelector"]
+- ["6JrMemo25FolderTalbeViewControllerC", "release"]
+- ["6JrMemo25FolderTalbeViewControllerC", "responds"]
+- ["6JrMemo25FolderTalbeViewControllerC", "respondsToSelector"]
+- ["6JrMemo25FolderTalbeViewControllerC", "retain"]
+- ["6JrMemo25FolderTalbeViewControllerC", "retainCount"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewDidChangeAdjustedContentInset"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewDidEndDecelerating"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewDidEndDragging"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewDidEndScrollingAnimation"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewDidEndZooming"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewDidScroll"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewDidScrollToTop"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewDidZoom"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewShouldScrollToTop"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewWillBeginDecelerating"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewWillBeginDragging"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewWillBeginZooming"]
+- ["6JrMemo25FolderTalbeViewControllerC", "scrollViewWillEndDragging"]
+- ["6JrMemo25FolderTalbeViewControllerC", "self"]
+- ["6JrMemo25FolderTalbeViewControllerC", "superclass"]
+- ["6JrMemo25FolderTalbeViewControllerC", "tableView"]
+- ["6JrMemo25FolderTalbeViewControllerC", "viewForZooming"]
+- ["6JrMemo25FolderTalbeViewControllerC", "viewForZoomingInScrollView"]
+- ["6JrMemo25FolderTalbeViewControllerC", "zone"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "autorelease"]
+- ["So8NSObjectP", "class"]
+- ["So8NSObjectP", "conforms"]
+- ["So8NSObjectP", "conformsToProtocol"]
+- ["So8NSObjectP", "debugDescription"]
+- ["So8NSObjectP", "description"]
+- ["So8NSObjectP", "hash"]
+- ["So8NSObjectP", "indexPathForPreferredFocusedView"]
+- ["So8NSObjectP", "indexPathForPreferredFocusedViewInTableView"]
+- ["So8NSObjectP", "isEqual"]
+- ["So8NSObjectP", "isKind"]
+- ["So8NSObjectP", "isKindOfClass"]
+- ["So8NSObjectP", "isMember"]
+- ["So8NSObjectP", "isMemberOfClass"]
+- ["So8NSObjectP", "isProxy"]
+- ["So8NSObjectP", "perform"]
+- ["So8NSObjectP", "performSelector"]
+- ["So8NSObjectP", "release"]
+- ["So8NSObjectP", "responds"]
+- ["So8NSObjectP", "respondsToSelector"]
+- ["So8NSObjectP", "retain"]
+- ["So8NSObjectP", "retainCount"]
+- ["So8NSObjectP", "scrollViewDidChangeAdjustedContentInset"]
+- ["So8NSObjectP", "scrollViewDidEndDecelerating"]
+- ["So8NSObjectP", "scrollViewDidEndDragging"]
+- ["So8NSObjectP", "scrollViewDidEndScrollingAnimation"]
+- ["So8NSObjectP", "scrollViewDidEndZooming"]
+- ["So8NSObjectP", "scrollViewDidScroll"]
+- ["So8NSObjectP", "scrollViewDidScrollToTop"]
+- ["So8NSObjectP", "scrollViewDidZoom"]
+- ["So8NSObjectP", "scrollViewShouldScrollToTop"]
+- ["So8NSObjectP", "scrollViewWillBeginDecelerating"]
+- ["So8NSObjectP", "scrollViewWillBeginDragging"]
+- ["So8NSObjectP", "scrollViewWillBeginZooming"]
+- ["So8NSObjectP", "scrollViewWillEndDragging"]
+- ["So8NSObjectP", "self"]
+- ["So8NSObjectP", "superclass"]
+- ["So8NSObjectP", "tableView"]
+- ["So8NSObjectP", "viewForZooming"]
+- ["So8NSObjectP", "viewForZoomingInScrollView"]
+- ["So8NSObjectP", "zone"]
+- ["So20UIScrollViewDelegateP", ""]
+- ["So20UIScrollViewDelegateP", "autorelease"]
+- ["So20UIScrollViewDelegateP", "class"]
+- ["So20UIScrollViewDelegateP", "conforms"]
+- ["So20UIScrollViewDelegateP", "conformsToProtocol"]
+- ["So20UIScrollViewDelegateP", "debugDescription"]
+- ["So20UIScrollViewDelegateP", "description"]
+- ["So20UIScrollViewDelegateP", "hash"]
+- ["So20UIScrollViewDelegateP", "indexPathForPreferredFocusedView"]
+- ["So20UIScrollViewDelegateP", "indexPathForPreferredFocusedViewInTableView"]
+- ["So20UIScrollViewDelegateP", "isEqual"]
+- ["So20UIScrollViewDelegateP", "isKind"]
+- ["So20UIScrollViewDelegateP", "isKindOfClass"]
+- ["So20UIScrollViewDelegateP", "isMember"]
+- ["So20UIScrollViewDelegateP", "isMemberOfClass"]
+- ["So20UIScrollViewDelegateP", "isProxy"]
+- ["So20UIScrollViewDelegateP", "perform"]
+- ["So20UIScrollViewDelegateP", "performSelector"]
+- ["So20UIScrollViewDelegateP", "release"]
+- ["So20UIScrollViewDelegateP", "responds"]
+- ["So20UIScrollViewDelegateP", "respondsToSelector"]
+- ["So20UIScrollViewDelegateP", "retain"]
+- ["So20UIScrollViewDelegateP", "retainCount"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidChangeAdjustedContentInset"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndDecelerating"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndDragging"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndScrollingAnimation"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidEndZooming"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidScroll"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidScrollToTop"]
+- ["So20UIScrollViewDelegateP", "scrollViewDidZoom"]
+- ["So20UIScrollViewDelegateP", "scrollViewShouldScrollToTop"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillBeginDecelerating"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillBeginDragging"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillBeginZooming"]
+- ["So20UIScrollViewDelegateP", "scrollViewWillEndDragging"]
+- ["So20UIScrollViewDelegateP", "self"]
+- ["So20UIScrollViewDelegateP", "superclass"]
+- ["So20UIScrollViewDelegateP", "tableView"]
+- ["So20UIScrollViewDelegateP", "viewForZooming"]
+- ["So20UIScrollViewDelegateP", "viewForZoomingInScrollView"]
+- ["So20UIScrollViewDelegateP", "zone"]
+- ["So19UITableViewDelegateP", ""]
+- ["So19UITableViewDelegateP", "autorelease"]
+- ["So19UITableViewDelegateP", "class"]
+- ["So19UITableViewDelegateP", "conforms"]
+- ["So19UITableViewDelegateP", "conformsToProtocol"]
+- ["So19UITableViewDelegateP", "debugDescription"]
+- ["So19UITableViewDelegateP", "description"]
+- ["So19UITableViewDelegateP", "hash"]
+- ["So19UITableViewDelegateP", "indexPathForPreferredFocusedView"]
+- ["So19UITableViewDelegateP", "indexPathForPreferredFocusedViewInTableView"]
+- ["So19UITableViewDelegateP", "isEqual"]
+- ["So19UITableViewDelegateP", "isKind"]
+- ["So19UITableViewDelegateP", "isKindOfClass"]
+- ["So19UITableViewDelegateP", "isMember"]
+- ["So19UITableViewDelegateP", "isMemberOfClass"]
+- ["So19UITableViewDelegateP", "isProxy"]
+- ["So19UITableViewDelegateP", "perform"]
+- ["So19UITableViewDelegateP", "performSelector"]
+- ["So19UITableViewDelegateP", "release"]
+- ["So19UITableViewDelegateP", "responds"]
+- ["So19UITableViewDelegateP", "respondsToSelector"]
+- ["So19UITableViewDelegateP", "retain"]
+- ["So19UITableViewDelegateP", "retainCount"]
+- ["So19UITableViewDelegateP", "scrollViewDidChangeAdjustedContentInset"]
+- ["So19UITableViewDelegateP", "scrollViewDidEndDecelerating"]
+- ["So19UITableViewDelegateP", "scrollViewDidEndDragging"]
+- ["So19UITableViewDelegateP", "scrollViewDidEndScrollingAnimation"]
+- ["So19UITableViewDelegateP", "scrollViewDidEndZooming"]
+- ["So19UITableViewDelegateP", "scrollViewDidScroll"]
+- ["So19UITableViewDelegateP", "scrollViewDidScrollToTop"]
+- ["So19UITableViewDelegateP", "scrollViewDidZoom"]
+- ["So19UITableViewDelegateP", "scrollViewShouldScrollToTop"]
+- ["So19UITableViewDelegateP", "scrollViewWillBeginDecelerating"]
+- ["So19UITableViewDelegateP", "scrollViewWillBeginDragging"]
+- ["So19UITableViewDelegateP", "scrollViewWillBeginZooming"]
+- ["So19UITableViewDelegateP", "scrollViewWillEndDragging"]
+- ["So19UITableViewDelegateP", "self"]
+- ["So19UITableViewDelegateP", "superclass"]
+- ["So19UITableViewDelegateP", "tableView"]
+- ["So19UITableViewDelegateP", "viewForZooming"]
+- ["So19UITableViewDelegateP", "viewForZoomingInScrollView"]
+- ["So19UITableViewDelegateP", "zone"]
+depends-nominal:
+- "6JrMemo25FolderTalbeViewControllerC"
+- "So8NSObjectP"
+- "So20UIScrollViewDelegateP"
+- "So19UITableViewDelegateP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "dfa246521ce464cde269973eccaf4aab"
